@@ -1,3 +1,8 @@
+---
+name: "Bug report"
+about: 'Report a general issue.
+---
+
 ## Expected Behavior
 
 ## Actual Behavior
