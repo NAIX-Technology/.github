@@ -1,6 +1,6 @@
 ---
 name: "Bug report"
-about: 'Report a general issue.
+about: "Report a general issue."
 ---
 
 ## Expected Behavior
