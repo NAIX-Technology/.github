@@ -8,7 +8,9 @@ about: "Report a general issue."
 ## Actual Behavior
 
 ## Steps to Reproduce the Problem
-1.
+1. [First Step]
+2. [Second Step]
+3. [and so on...]
 
 ## Specifications
 
