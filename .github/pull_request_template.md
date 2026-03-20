@@ -3,6 +3,14 @@
 ## Description
 <!--- Describe your changes in detail -->
 
+## Closing Issues
+<!--
+Add one line per issue using a GitHub closing keyword.
+Remove this section entirely if no tracked issue exists.
+-->
+
+Fixes #
+
 ## Motivation and Context
 <!--- Why is this change required? What problem does it solve? -->
 <!--- If it fixes an open issue, please link to the issue here. -->
